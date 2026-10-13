@@ -7,6 +7,8 @@
 4. masukan **teh** pada gelas A ke gelas B bekas **kopi**
 5. masukan **kopi** yang ada di wadah tambahan ke gelas A bekas **teh**
 6. selesai
+### Algoritma Flowchart
+
 
 ## menentukan bilangan ganjil dan genap
 ### Algoritma Deskriptif
@@ -23,8 +25,8 @@
     start@{ shape: circle, label: "Start" }
     inputAngka@{ shape: lean-r, label: "bilangan" }
     modulo@{ shape: diamond, label: "bilangan % 2 == 0" }
-    genap@{ shape: lean-r, label: "Genap" }
-    ganjil@{ shape: lean-r, label: "Ganjil" }
+    genap@{ shape: lean-r, label: "Genap#quot;" }
+    ganjil@{ shape: lean-r, label: "Ganjil#quot;" }
     selesai@{ shape: dbl-circ, label: "Selesai" }
     
     start --> inputAngka
@@ -37,7 +39,7 @@
 ```
 
 ### Pseudo-Code
-```sh
+```
 DECLARE bilangan : INTEGER
 
 INPUT bilangan
@@ -88,7 +90,7 @@ flowchart TD
 ```
 
 ### Pseudo-Code
-``` sh
+``` 
 DECLARE r : INTEGER
 DECLARE luas : REAL
 DECLARE keliling : REAL
