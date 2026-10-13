@@ -30,9 +30,9 @@
     flowchart TD
     start@{ shape: circle, label: "Start" }
     inputAngka@{ shape: lean-r, label: "angka" }
-    modulo@{ shape: diamond, label: "angka % 2 === 0" }
-    genap@{ shape: lean-r, label: "print 'genap'" }
-    ganjil@{ shape: lean-r, label: "print 'ganjil'" }
+    modulo@{ shape: diamond, label: "angka % 2 == 0" }
+    genap@{ shape: lean-r, label: "Genap" }
+    ganjil@{ shape: lean-r, label: "Ganjil" }
     selesai@{ shape: dbl-circ, label: "Selesai" }
     
     start --> inputAngka
