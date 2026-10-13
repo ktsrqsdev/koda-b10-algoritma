@@ -1,6 +1,5 @@
 # Algoritma
-## Algoritma Deskriptif
-### memindahkan air
+## memindahkan air
 1. mulai
 2. siapkan 1 wadah kosong tambahan
 3. masukan **kopi** pada gelas B ke wadah kosong
@@ -50,7 +49,7 @@ ENDIF
 ```
 
 ---
-### menghitung luas dan keliling lingkaran
+## menghitung luas dan keliling lingkaran
 1. mulai
 2. tentukan nilai jari jarinya
 3. jika jari jarinya habis dibagi 7 pi menggunakan 22/7
@@ -59,10 +58,7 @@ ENDIF
 6. untuk menghitung keliling gunakan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
 7. selesai
 
-
-
-### Flowchart menghitung luas dan keliling lingkaran
-
+### Algoritma Flowchart
 ``` mermaid
 flowchart TD
     start@{ shape: circle, label: "Start" }
@@ -88,3 +84,6 @@ flowchart TD
     outputkeliling --> stop
     
 ```
+
+### Pseudo-Code
+
