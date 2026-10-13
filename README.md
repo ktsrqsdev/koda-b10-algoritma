@@ -7,8 +7,8 @@
 4. masukan **teh** pada gelas A ke gelas B bekas **kopi**
 5. masukan **kopi** yang ada di wadah tambahan ke gelas A bekas **teh**
 6. selesai
-### Algoritma Flowchart
 
+---
 
 ## menentukan bilangan ganjil dan genap
 ### Algoritma Deskriptif
