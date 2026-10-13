@@ -1,5 +1,6 @@
 # Algoritma
 ## memindahkan air
+### Algoritma Deskriptif
 1. mulai
 2. siapkan 1 wadah kosong tambahan
 3. masukan **kopi** pada gelas B ke wadah kosong
@@ -50,6 +51,7 @@ ENDIF
 
 ---
 ## menghitung luas dan keliling lingkaran
+### Algoritma Deskriptif
 1. mulai
 2. tentukan nilai jari jarinya
 3. jika jari jarinya habis dibagi 7 pi menggunakan 22/7
