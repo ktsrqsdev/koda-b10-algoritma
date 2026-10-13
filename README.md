@@ -53,7 +53,6 @@ flowchart TD
     start@{ shape: circle, label: "Start" }
     stop@{ shape: dbl-circ, label: "Stop" }
     r@{ shape: lean-r, label: "r" }
-    varkosong@{ shape: rect, label: "luas, keliling" }
     modr@{ shape: diamond, label: "r % 7 == 0" }
     luas1@{ shape: rect, label: "luas = 22/7 * r * r" }
     luas2@{ shape: rect, label: "luas = 3.14 * r * r" }
@@ -64,8 +63,7 @@ flowchart TD
 
 
     start --> r
-    r --> varkosong
-    varkosong --> modr
+    r --> modr
     modr --ya--> luas1
     modr --tidak--> luas2
     luas1 --> keliling1
