@@ -50,7 +50,7 @@
 
 ``` mermaid
 flowchart TD
-    start@{ shape: circle, label: "Start" }
+    start@{ shape: sm-circ, label: "Start" }
     stop@{ shape: dbl-circ, label: "Stop" }
     r@{ shape: lean-r, label: "r" }
     modr@{ shape: diamond, label: "r % 7 == 0" }
