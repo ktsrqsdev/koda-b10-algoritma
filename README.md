@@ -17,6 +17,6 @@
 ## Algoritma menghitung luas dan keliling lingkaran
 1. mulai
 2. tentukan nilai jari jarinya
-3. untuk menghitung luas maka masukan rumus luas yaitu pi dikali jari jari dikali jari jari (luas = pi x r²)
-4. untuk menghitung keliling masukan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
+3. untuk menghitung luas maka gunakan rumus luas yaitu pi dikali jari jari dikali jari jari (luas = pi x r²)
+4. untuk menghitung keliling gunakan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
 6. selesai
