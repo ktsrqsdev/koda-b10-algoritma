@@ -8,25 +8,15 @@
 5. masukan **kopi** yang ada di wadah tambahan ke gelas A bekas **teh**
 6. selesai
 
-### menentukan bilangan ganjil dan genap
+## menentukan bilangan ganjil dan genap
+### Algoritma Deskriptif
 1. mulai
 2. tentukan bilangan yang mau di cek
 3. jika bilangan yang sudah ditentukan habis kalau *dibagi 2* maka bilangan tersebut adalah **bilangan genap**.
 4. jika bilangan yang ditentukan tidak habis kalau *dibagi 2* atau *sisa pembagian menghasilkan 1* maka bilangan tersebut adalah **bilangan ganjil**.
 5. selesai
-
-### menghitung luas dan keliling lingkaran
-1. mulai
-2. tentukan nilai jari jarinya
-3. jika jari jarinya habis dibagi 7 pi menggunakan 22/7
-4. jika tidak maka pi menggunakan 3.14
-5. untuk menghitung luas maka gunakan rumus luas yaitu pi dikali jari jari dikali jari jari (luas = pi x r x r)
-6. untuk menghitung keliling gunakan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
-7. selesai
-
-## Algoritma Flowchart
-### Flowchart menentukan bilangan ganjil dan genap
-
+   
+### Algoritma Flowchart
 ``` mermaid
 
     flowchart TD
@@ -45,6 +35,30 @@
     
     
 ```
+
+### Pseudo-Code
+```sh
+DECLARE bilangan : INTEGER
+
+bilangan <- 4
+
+IF bilangan MOD 2 = 0 THEN
+    OUTPUT "Genap"
+ELSE
+    OUTPUT "GANJIL"
+ENDIF
+```
+### menghitung luas dan keliling lingkaran
+1. mulai
+2. tentukan nilai jari jarinya
+3. jika jari jarinya habis dibagi 7 pi menggunakan 22/7
+4. jika tidak maka pi menggunakan 3.14
+5. untuk menghitung luas maka gunakan rumus luas yaitu pi dikali jari jari dikali jari jari (luas = pi x r x r)
+6. untuk menghitung keliling gunakan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
+7. selesai
+
+## Algoritma Flowchart
+
 
 ### Flowchart menghitung luas dan keliling lingkaran
 
