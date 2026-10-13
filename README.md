@@ -39,7 +39,7 @@
 ```sh
 DECLARE bilangan : INTEGER
 
-bilangan <- 4
+INPUT bilangan
 
 IF bilangan MOD 2 = 0 THEN
     OUTPUT "Genap"
