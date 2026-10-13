@@ -44,7 +44,7 @@ INPUT bilangan
 IF bilangan MOD 2 = 0 THEN
     OUTPUT "Genap"
 ELSE
-    OUTPUT "GANJIL"
+    OUTPUT "Ganjil"
 ENDIF
 ```
 
