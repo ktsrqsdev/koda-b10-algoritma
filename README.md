@@ -66,8 +66,8 @@ flowchart TD
     varkosong --> modr
     modr --ya--> luas1
     modr --tidak--> luas2
-    luas1 --ya--> keliling1
-    luas2 --tidak--> keliling2
+    luas1 --> keliling1
+    luas2 --> keliling2
     keliling1 & keliling2 --> outputluas
     outputluas --> outputkeliling
     outputkeliling --> stop
