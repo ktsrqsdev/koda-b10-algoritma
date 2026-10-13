@@ -18,9 +18,11 @@
 ### menghitung luas dan keliling lingkaran
 1. mulai
 2. tentukan nilai jari jarinya
-3. untuk menghitung luas maka gunakan rumus luas yaitu pi dikali jari jari dikali jari jari (luas = pi x r²)
-4. untuk menghitung keliling gunakan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
-6. selesai
+3. jika jari jarinya habis dibagi 7 pi menggunakan 22/7
+4. jika tidak maka pi menggunakan 3.14
+5. untuk menghitung luas maka gunakan rumus luas yaitu pi dikali jari jari dikali jari jari (luas = pi x r x r)
+6. untuk menghitung keliling gunakan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
+7. selesai
 
 ## Algoritma Flowchart
 ### Flowchart menentukan bilangan ganjil dan genap
