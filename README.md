@@ -86,4 +86,23 @@ flowchart TD
 ```
 
 ### Pseudo-Code
+``` sh
+DECLARE r : INTEGER
+DECLARE luas : REAL
+DECLARE keliling : REAL
+
+INPUT r
+
+IF r MOD 7 = 0 THEN
+    luas <- 22/7 * r * r
+    keliling <- 2 * 22/7 * r
+ELSE
+    luas <- 3.14 * r * r
+    keliling <- 2 * 3.14 * r
+ENDIF
+
+OUTPUT luas
+OUTPUT keliling
+```
+
 
