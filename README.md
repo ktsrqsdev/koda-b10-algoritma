@@ -25,8 +25,8 @@
     start@{ shape: circle, label: "Start" }
     inputAngka@{ shape: lean-r, label: "bilangan" }
     modulo@{ shape: diamond, label: "bilangan % 2 == 0" }
-    genap@{ shape: lean-r, label: "Genap#quot;" }
-    ganjil@{ shape: lean-r, label: "Ganjil#quot;" }
+    genap@{ shape: lean-r, label: "#quot;Genap#quot;" }
+    ganjil@{ shape: lean-r, label: "#quot;Ganjil#quot;" }
     selesai@{ shape: dbl-circ, label: "Selesai" }
     
     start --> inputAngka
