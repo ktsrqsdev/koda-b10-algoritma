@@ -10,9 +10,9 @@
 ## menentukan bilangan ganjil dan genap
 ### Algoritma Deskriptif
 1. mulai
-2. tentukan angka yang mau di cek
-3. jika angka yang sudah ditentukan habis kalau *dibagi 2* maka bilangan tersebut adalah **bilangan genap**.
-4. jika angka yang ditentukan tidak habis kalau *dibagi 2* atau *sisa pembagian menghasilkan 1* maka bilangan tersebut adalah **bilangan ganjil**.
+2. tentukan bilangan yang mau di cek
+3. jika bilangan yang sudah ditentukan habis kalau *dibagi 2* maka bilangan tersebut adalah **bilangan genap**.
+4. jika bilangan yang ditentukan tidak habis kalau *dibagi 2* atau *sisa pembagian menghasilkan 1* maka bilangan tersebut adalah **bilangan ganjil**.
 5. selesai
    
 ### Algoritma Flowchart
@@ -20,8 +20,8 @@
 
     flowchart TD
     start@{ shape: circle, label: "Start" }
-    inputAngka@{ shape: lean-r, label: "angka" }
-    modulo@{ shape: diamond, label: "angka % 2 == 0" }
+    inputAngka@{ shape: lean-r, label: "bilangan" }
+    modulo@{ shape: diamond, label: "bilangan % 2 == 0" }
     genap@{ shape: lean-r, label: "Genap" }
     ganjil@{ shape: lean-r, label: "Ganjil" }
     selesai@{ shape: dbl-circ, label: "Selesai" }
