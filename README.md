@@ -48,6 +48,8 @@ ELSE
     OUTPUT "GANJIL"
 ENDIF
 ```
+
+---
 ### menghitung luas dan keliling lingkaran
 1. mulai
 2. tentukan nilai jari jarinya
@@ -57,7 +59,6 @@ ENDIF
 6. untuk menghitung keliling gunakan rumus 2 dikali pi dikali jari jari (keliling = 2 x pi x r)
 7. selesai
 
-## Algoritma Flowchart
 
 
 ### Flowchart menghitung luas dan keliling lingkaran
